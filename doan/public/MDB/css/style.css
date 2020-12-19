@@ -1,0 +1,10 @@
+img.img-fluid.z-depth-1:hover {
+    cursor: zoom-in;
+    transform-origin: center;
+    transform: scale(2);
+    transition: 1s;
+}
+ul.rating.mb-sm-0 {
+    display: flex;
+    padding: 25px;
+}
